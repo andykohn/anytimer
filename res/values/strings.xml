@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnyTimer</string>
+
+    <string name="description_logo">Any Timer</string>
+    <string name="btn_schedule">Start Timer</string>
+    <string name="btn_map">New Timer</string>
+    <string name="btn_sessions">Sessions</string>
+    <string name="btn_starred">Starred</string>
+    <string name="btn_vendors">Community</string>
+    <string name="btn_announcements">About</string>
+
+    <string name="description_refresh">Refresh</string>
+    <string name="description_search">Search</string>
+    <string name="description_home">Home</string>
+</resources>
